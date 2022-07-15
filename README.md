@@ -10,7 +10,7 @@ A simple code that converts Arabic speech to text using javascript.
 ## Second task: Wasdom-ESP32 Link Steps
 I'm going to write algorithm for running Wasdom ESP32. To perform the following steps correctly, a connection to the Internet is required.
 ### Step One:
-you need to install Arduino IDE by
+you need to download Arduino IDE by
  [clicking here](https://www.arduino.cc/en/software)!
 ### Step Two:
 now since the wasdom ESP32 is undefined so you need to define it with Arduino by clicking on ```file > preferences```
